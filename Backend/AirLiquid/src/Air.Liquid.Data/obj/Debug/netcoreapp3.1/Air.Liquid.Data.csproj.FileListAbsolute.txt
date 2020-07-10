@@ -1,0 +1,15 @@
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\bin\Debug\netcoreapp3.1\Air.Liquid.Data.deps.json
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\bin\Debug\netcoreapp3.1\Air.Liquid.Data.dll
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.csprojAssemblyReference.cache
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.AssemblyInfoInputs.cache
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.AssemblyInfo.cs
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\bin\Debug\netcoreapp3.1\Air.Liquid.Data.runtimeconfig.json
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\bin\Debug\netcoreapp3.1\Air.Liquid.Data.runtimeconfig.dev.json
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\bin\Debug\netcoreapp3.1\Air.Liquid.Data.pdb
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\bin\Debug\netcoreapp3.1\Air.Liquid.Domain.dll
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\bin\Debug\netcoreapp3.1\Air.Liquid.Domain.pdb
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.csproj.CoreCompileInputs.cache
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.csproj.CopyComplete
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.dll
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.pdb
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Data\obj\Debug\netcoreapp3.1\Air.Liquid.Data.genruntimeconfig.cache

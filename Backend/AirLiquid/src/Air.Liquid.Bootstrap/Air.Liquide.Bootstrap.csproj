@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ApiExplorer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="4.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Air.Liquid.Data\Air.Liquide.Data.csproj" />
+    <ProjectReference Include="..\Air.Liquid.Domain\Air.Liquide.Domain.csproj" />
+    <ProjectReference Include="..\Air.Liquid.Infrastrucutre\Air.Liquide.Infrastrucutre.csproj" />
+    <ProjectReference Include="..\Air.Liquid.Service\Air.Liquide.Service.csproj" />
+  </ItemGroup>
+
+</Project>

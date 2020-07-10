@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Air.Liquid.Data\Air.Liquide.Data.csproj" />
+    <ProjectReference Include="..\Air.Liquid.Domain\Air.Liquide.Domain.csproj" />
+    <ProjectReference Include="..\Air.Liquid.Infrastrucutre\Air.Liquide.Infrastrucutre.csproj" />
+  </ItemGroup>
+
+</Project>
