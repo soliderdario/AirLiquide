@@ -1,7 +1,6 @@
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Infrastrucutre\bin\Debug\netcoreapp3.1\Air.Liquide.Infrastrucutre.deps.json
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Infrastrucutre\bin\Debug\netcoreapp3.1\Air.Liquide.Infrastrucutre.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Infrastrucutre\bin\Debug\netcoreapp3.1\Air.Liquide.Infrastrucutre.pdb
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Infrastrucutre\obj\Debug\netcoreapp3.1\Air.Liquide.Infrastrucutre.csprojAssemblyReference.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Infrastrucutre\obj\Debug\netcoreapp3.1\Air.Liquide.Infrastrucutre.AssemblyInfoInputs.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Infrastrucutre\obj\Debug\netcoreapp3.1\Air.Liquide.Infrastrucutre.AssemblyInfo.cs
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Infrastrucutre\obj\Debug\netcoreapp3.1\Air.Liquide.Infrastrucutre.csproj.CoreCompileInputs.cache

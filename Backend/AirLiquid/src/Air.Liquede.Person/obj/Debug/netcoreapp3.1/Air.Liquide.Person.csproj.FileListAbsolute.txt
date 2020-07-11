@@ -75,3 +75,6 @@ C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.pdb
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.genruntimeconfig.cache
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

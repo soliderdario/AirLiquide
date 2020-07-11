@@ -12,7 +12,7 @@ C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\bin\Debug\netcoreap
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.csprojAssemblyReference.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.AssemblyInfoInputs.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.AssemblyInfo.cs
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.csproj.CoreCompileInputs.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.csproj.CopyComplete
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.pdb
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Bootstrap\obj\Debug\netcoreapp3.1\Air.Liquide.Bootstrap.csproj.CoreCompileInputs.cache

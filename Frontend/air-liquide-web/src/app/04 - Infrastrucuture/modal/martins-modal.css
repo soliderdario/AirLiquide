@@ -1,0 +1,41 @@
+
+app-ms-modal {
+  /* modals are hidden by default */
+  display: none;
+}
+
+.app-ms-modal-open {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 100000;
+  overflow: auto;
+}
+
+.app-ms-modal-body {
+
+  background: #fff;
+
+  /* margin exposes part of the modal background */
+   margin: 40px;
+}
+
+.app-ms-modal-title {
+  padding: 10px;
+  background-color: #333333;
+  font-weight: normal;
+  color: #ffffff;
+
+  /* margin exposes part of the modal background */
+  margin-top: 40px;
+}
+
+.app-ms-modal-content {
+   padding: 20px;
+
+}
+
+
