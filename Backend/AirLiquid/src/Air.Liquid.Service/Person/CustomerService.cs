@@ -8,6 +8,7 @@ using Air.Liquide.Data.Repository;
 using Air.Liquide.Domain.Interface.Person;
 using Air.Liquide.Domain.Model.Person;
 using Air.Liquide.Domain.Type;
+using Air.Liquide.Domain.Validations;
 using Air.Liquide.Infrastrucutre.Notifiers;
 
 namespace Air.Liquide.Service.Person
@@ -15,11 +16,14 @@ namespace Air.Liquide.Service.Person
     public class CustomerService : Repository<Customer>, ICustomerService
     {
         private readonly INotifier _notifier;
+        private readonly BaseService _baseService;
         public CustomerService(
             INotifier notifier,
             Context db) : base(db)
         {
             _notifier = notifier;
+            _baseService = new BaseService(_notifier);
+            
         }
 
         public new async Task Delete(Customer customer)
@@ -29,6 +33,8 @@ namespace Air.Liquide.Service.Person
 
         private void Validation(Customer customer)
         {
+            if (!_baseService.ExecuteValidation(new CustomerValidation(), customer)) return;
+
             if (Query(src => src.Name == customer.Name && src.Id != customer.Id).Result.Any())
             {
                 _notifier.SetNotification(new Notification("Já existe um cliente cadastrado com essa nome."));

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6FzmBRPckA/gzeVXHEJkpDC2m0oZj/OdIKe6V/HHOkukMINXvn1e8DYOM5z30gTYdgGm1Gjf79nCrL7sCRfklw==",
+  "dgSpecHash": "FLhwR9SfvoAumKDZza80De6X171FnGQl3fO7WqlYjALGTYtxDRgrsaFFGt40PYJy2e7iGTzdWW0vKlhRkyGqDg==",
   "success": true,
   "projectFilePath": "C:\\lixo\\AirLiquid\\Backend\\AirLiquid\\src\\Air.Liquid.Data\\Air.Liquide.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\solid\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512",
     "C:\\Users\\solid\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\solid\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\solid\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

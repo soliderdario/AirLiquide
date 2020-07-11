@@ -18,6 +18,7 @@ C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -64,6 +65,9 @@ C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.csprojAssemblyReference.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.AssemblyInfoInputs.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.AssemblyInfo.cs
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.csproj.CoreCompileInputs.cache
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.MvcApplicationPartsAssemblyInfo.cs
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.MvcApplicationPartsAssemblyInfo.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.RazorTargetAssemblyInfo.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.csproj.CopyComplete
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\staticwebassets\Air.Liquide.Person.StaticWebAssets.Manifest.cache
@@ -71,7 +75,3 @@ C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.pdb
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.genruntimeconfig.cache
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.csproj.CoreCompileInputs.cache
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.MvcApplicationPartsAssemblyInfo.cs
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\obj\Debug\netcoreapp3.1\Air.Liquide.Person.MvcApplicationPartsAssemblyInfo.cache
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquede.Person\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

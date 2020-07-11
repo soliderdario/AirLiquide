@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0+TkpOlGyVK1uMsWclBC2VS412Fh1HMSRPEKQFnH9e07evrOWl/j+EUnAO+ZhJwjHLZgEayI8jIqbA5bYh3phQ==",
+  "dgSpecHash": "2lGjeBZWc51NFYbiK5ChxPAitV8uGcjPfbBKFSjAxXgTFvy2RSqbrmqh8cryQLY5wdQYC1JLfNtKFmDJ0PaBMA==",
   "success": true,
   "projectFilePath": "C:\\lixo\\AirLiquid\\Backend\\AirLiquid\\src\\Air.Liquid.Domain\\Air.Liquide.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\solid\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

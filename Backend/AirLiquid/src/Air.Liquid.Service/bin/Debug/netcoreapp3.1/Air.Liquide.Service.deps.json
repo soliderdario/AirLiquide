@@ -870,6 +870,9 @@
         }
       },
       "Air.Liquide.Domain/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.0.0"
+        },
         "runtime": {
           "Air.Liquide.Domain.dll": {}
         }

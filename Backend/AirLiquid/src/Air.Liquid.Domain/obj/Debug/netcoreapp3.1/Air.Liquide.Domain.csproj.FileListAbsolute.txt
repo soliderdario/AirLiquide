@@ -1,9 +1,9 @@
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\bin\Debug\netcoreapp3.1\Air.Liquide.Domain.deps.json
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\bin\Debug\netcoreapp3.1\Air.Liquide.Domain.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\bin\Debug\netcoreapp3.1\Air.Liquide.Domain.pdb
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.csprojAssemblyReference.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.AssemblyInfoInputs.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.AssemblyInfo.cs
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.csproj.CoreCompileInputs.cache
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.dll
 C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.pdb
-C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.csprojAssemblyReference.cache
+C:\lixo\AirLiquid\Backend\AirLiquid\src\Air.Liquid.Domain\obj\Debug\netcoreapp3.1\Air.Liquide.Domain.csproj.CoreCompileInputs.cache

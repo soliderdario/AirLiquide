@@ -13,19 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Service", "4 - Service"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infrastructure", "5 - Infrastructure", "{CC6AAE74-1652-43A7-A468-4CF70D01DCA8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{BEDAC239-A8EF-4B21-8817-ECE4BD7890F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Air.Liquide.Domain", "src\Air.Liquid.Domain\Air.Liquide.Domain.csproj", "{5FA2D831-9982-4462-A3EE-549F1DED60BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air.Liquide.Domain", "src\Air.Liquid.Domain\Air.Liquide.Domain.csproj", "{5FA2D831-9982-4462-A3EE-549F1DED60BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Air.Liquide.Data", "src\Air.Liquid.Data\Air.Liquide.Data.csproj", "{43772204-2AF3-4A54-9506-5411A8366D63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air.Liquide.Data", "src\Air.Liquid.Data\Air.Liquide.Data.csproj", "{43772204-2AF3-4A54-9506-5411A8366D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Air.Liquide.Infrastrucutre", "src\Air.Liquid.Infrastrucutre\Air.Liquide.Infrastrucutre.csproj", "{A768260F-3722-4B36-8CD8-1C34F5588B08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air.Liquide.Infrastrucutre", "src\Air.Liquid.Infrastrucutre\Air.Liquide.Infrastrucutre.csproj", "{A768260F-3722-4B36-8CD8-1C34F5588B08}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air.Liquide.Service", "src\Air.Liquid.Service\Air.Liquide.Service.csproj", "{2F492E72-5EA3-4F4C-BF7A-7816BD2AFA4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Air.Liquide.Service", "src\Air.Liquid.Service\Air.Liquide.Service.csproj", "{2F492E72-5EA3-4F4C-BF7A-7816BD2AFA4A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Air.Liquide.Bootstrap", "src\Air.Liquid.Bootstrap\Air.Liquide.Bootstrap.csproj", "{461C983E-B1B6-4223-8254-EA882589E160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air.Liquide.Person", "src\Air.Liquede.Person\Air.Liquide.Person.csproj", "{4BC4825E-72A1-4DFA-BCD8-221A6D2D05E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Air.Liquide.Person", "src\Air.Liquede.Person\Air.Liquide.Person.csproj", "{4BC4825E-72A1-4DFA-BCD8-221A6D2D05E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,8 +60,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{BEDAC239-A8EF-4B21-8817-ECE4BD7890F7} = {01430B2B-7E9B-42DE-9C3B-44A257AF5DAC}
-		{5FA2D831-9982-4462-A3EE-549F1DED60BC} = {BEDAC239-A8EF-4B21-8817-ECE4BD7890F7}
+		{5FA2D831-9982-4462-A3EE-549F1DED60BC} = {01430B2B-7E9B-42DE-9C3B-44A257AF5DAC}
 		{43772204-2AF3-4A54-9506-5411A8366D63} = {0C31A256-F4FC-4D19-B356-C7B1A538C09B}
 		{A768260F-3722-4B36-8CD8-1C34F5588B08} = {CC6AAE74-1652-43A7-A468-4CF70D01DCA8}
 		{2F492E72-5EA3-4F4C-BF7A-7816BD2AFA4A} = {35A517FE-19D4-4399-B975-735D6D513B0E}

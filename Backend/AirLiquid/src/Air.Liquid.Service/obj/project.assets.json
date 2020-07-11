@@ -1280,6 +1280,9 @@
       "Air.Liquide.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "FluentValidation": "9.0.0"
+        },
         "compile": {
           "bin/placeholder/Air.Liquide.Domain.dll": {}
         },
