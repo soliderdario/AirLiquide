@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Air.Liquide.Data.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20200710174701_db01")]
+    [Migration("20200711172002_db01")]
     partial class db01
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

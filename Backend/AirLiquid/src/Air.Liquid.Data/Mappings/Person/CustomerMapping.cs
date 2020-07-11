@@ -10,6 +10,7 @@ namespace Air.Liquide.Data.Mappings.Person
         {
             builder.ToTable("Customer");
             builder.Property(f => f.Id).IsRequired();
+            builder.HasKey(f => f.Id);
             builder.Property(f => f.Name).IsRequired().HasMaxLength(45);
             builder.Property(f => f.Age).IsRequired();
         }
